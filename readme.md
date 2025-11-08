@@ -105,3 +105,7 @@ Saved tasks randomly don't appear on page load, even though the app clearly know
 ---
 
 
+Evidence:
+<img width="1498" height="974" alt="Screenshot 2025-11-08 at 16 01 21" src="https://github.com/user-attachments/assets/50843c20-fc0f-40b5-b13c-d2977ea21de1" />
+
+
